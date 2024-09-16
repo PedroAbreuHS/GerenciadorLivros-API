@@ -1,0 +1,11 @@
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Core\bin\Debug\net8.0\GerenciadorLivros.Core.deps.json
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Core\bin\Debug\net8.0\GerenciadorLivros.Core.dll
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Core\bin\Debug\net8.0\GerenciadorLivros.Core.pdb
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Core\obj\Debug\net8.0\GerenciadorLivros.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Core\obj\Debug\net8.0\GerenciadorLivros.Core.AssemblyInfoInputs.cache
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Core\obj\Debug\net8.0\GerenciadorLivros.Core.AssemblyInfo.cs
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Core\obj\Debug\net8.0\GerenciadorLivros.Core.csproj.CoreCompileInputs.cache
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Core\obj\Debug\net8.0\GerenciadorLivros.Core.dll
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Core\obj\Debug\net8.0\refint\GerenciadorLivros.Core.dll
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Core\obj\Debug\net8.0\GerenciadorLivros.Core.pdb
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Core\obj\Debug\net8.0\ref\GerenciadorLivros.Core.dll

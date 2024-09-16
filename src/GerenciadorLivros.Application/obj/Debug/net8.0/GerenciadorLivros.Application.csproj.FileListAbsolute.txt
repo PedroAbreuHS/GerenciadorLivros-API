@@ -1,0 +1,15 @@
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Application\bin\Debug\net8.0\GerenciadorLivros.Application.deps.json
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Application\bin\Debug\net8.0\GerenciadorLivros.Application.dll
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Application\bin\Debug\net8.0\GerenciadorLivros.Application.pdb
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Application\bin\Debug\net8.0\GerenciadorLivros.Core.dll
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Application\bin\Debug\net8.0\GerenciadorLivros.Core.pdb
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Application\obj\Debug\net8.0\GerenciadorLivros.Application.csproj.AssemblyReference.cache
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Application\obj\Debug\net8.0\GerenciadorLivros.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Application\obj\Debug\net8.0\GerenciadorLivros.Application.AssemblyInfoInputs.cache
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Application\obj\Debug\net8.0\GerenciadorLivros.Application.AssemblyInfo.cs
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Application\obj\Debug\net8.0\GerenciadorLivros.Application.csproj.CoreCompileInputs.cache
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Application\obj\Debug\net8.0\Gerencia.EBB7F6FC.Up2Date
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Application\obj\Debug\net8.0\GerenciadorLivros.Application.dll
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Application\obj\Debug\net8.0\refint\GerenciadorLivros.Application.dll
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Application\obj\Debug\net8.0\GerenciadorLivros.Application.pdb
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Application\obj\Debug\net8.0\ref\GerenciadorLivros.Application.dll
