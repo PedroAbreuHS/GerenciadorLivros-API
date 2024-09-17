@@ -4,9 +4,9 @@ using System.Reflection;
 
 namespace GerenciadorLivros.Infrastructure.Data
 {
-    public class GerenciadorLivrosContext : DbContext
+    public class LivrosDbContext : DbContext
     {
-        public GerenciadorLivrosContext(DbContextOptions<GerenciadorLivrosContext> options) 
+        public LivrosDbContext(DbContextOptions<LivrosDbContext> options) 
             : base(options)
         {
         }

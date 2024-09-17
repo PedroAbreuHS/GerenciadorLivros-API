@@ -9,6 +9,10 @@
         public DateTime DataEmprestimo { get; set; }
         public DateTime? DataDevolucao { get; set; }
 
+        protected Emprestimo()
+        {
+        }
+
         public Emprestimo(int idUsuario, Usuario usuario, int idLivro, Livro livro, DateTime dataEmprestimo)
             : base()
         {

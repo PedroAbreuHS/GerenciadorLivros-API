@@ -63,6 +63,7 @@ C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.API\obj\Debug\n
 C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.API\obj\Debug\net8.0\GerenciadorLivros.API.csproj.CoreCompileInputs.cache
 C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.API\obj\Debug\net8.0\GerenciadorLivros.API.MvcApplicationPartsAssemblyInfo.cs
 C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.API\obj\Debug\net8.0\GerenciadorLivros.API.MvcApplicationPartsAssemblyInfo.cache
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.API\obj\Debug\net8.0\GerenciadorLivros.API.sourcelink.json
 C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.API\obj\Debug\net8.0\staticwebassets\msbuild.GerenciadorLivros.API.Microsoft.AspNetCore.StaticWebAssets.props

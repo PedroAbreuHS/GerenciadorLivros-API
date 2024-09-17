@@ -9,7 +9,11 @@ namespace GerenciadorLivros.Core.Entities
         public string ISBN { get; private set; }
         public int AnoPublicacao { get; private set; }
         public StatusLivro StatusLivro { get; private set; }
-        
+
+        protected Livro()
+        {
+        }
+
         public Livro(string titulo, string autor, string iSBN, int anoPublicacao) 
             : base()
         {
@@ -17,6 +21,8 @@ namespace GerenciadorLivros.Core.Entities
             Autor = autor;
             ISBN = iSBN;
             AnoPublicacao = anoPublicacao;
+
+            StatusLivro = StatusLivro.Disponivel;
         }
 
         public void Indisponivel()

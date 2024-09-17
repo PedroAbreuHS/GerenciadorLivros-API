@@ -8,6 +8,10 @@
         public DateTime CadastradoEm { get; private set; }
         public List<Emprestimo> Emprestimos { get; set; }
 
+        protected Usuario()
+        {
+        }
+
         public Usuario(string nome, string email) : base()
         {            
             Nome = nome;

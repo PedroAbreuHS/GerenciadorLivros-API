@@ -11,6 +11,7 @@ C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Infrastructure\
 C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Infrastructure\obj\Debug\net8.0\GerenciadorLivros.Infrastructure.AssemblyInfoInputs.cache
 C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Infrastructure\obj\Debug\net8.0\GerenciadorLivros.Infrastructure.AssemblyInfo.cs
 C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Infrastructure\obj\Debug\net8.0\GerenciadorLivros.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Infrastructure\obj\Debug\net8.0\GerenciadorLivros.Infrastructure.sourcelink.json
 C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Infrastructure\obj\Debug\net8.0\Gerencia.DBCF623D.Up2Date
 C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Infrastructure\obj\Debug\net8.0\GerenciadorLivros.Infrastructure.dll
 C:\ProjetosAvulsosDotNet\GerenciadorLivros\src\GerenciadorLivros.Infrastructure\obj\Debug\net8.0\refint\GerenciadorLivros.Infrastructure.dll
